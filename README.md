@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 - Web page URL: https://chrisbori.github.io/My-Online-Portfolio/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/chrisbori/My-Online-Portfolio)
 
 # Portfolio
 Welcome to my online data visualization portfolio! Here's where all my cool work will go, mainly data stories with vizualizations. I hope you enjoy!
