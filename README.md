@@ -1,4 +1,4 @@
-| [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [critique by design](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 - Web page URL: https://chrisbori.github.io/My-Online-Portfolio/
 - This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/chrisbori/My-Online-Portfolio)
