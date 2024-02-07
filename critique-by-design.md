@@ -50,7 +50,7 @@ I struggled a bit with making the diverging chart (I'm a Tableau amateur), but I
 
 However, then I struggled to find how to make the men side a different color story from the other side. It took me an embarassing amount of time, but I figured out that I needed to make an additional legend for men. I chose blue teal for men and a pinkish purple for women (the more often they washed their hands, the darker the color). I also grayed out the "Don't know" response. 
 
-I decided to merge/rename some of responses to improve perceptibility:
+I decided to merge/rename some of the responses to improve perceptibility:
 * always + mostly = Always/Mostly
 * sometimes + rarely = Sometimes
 * never = You need to do that?
