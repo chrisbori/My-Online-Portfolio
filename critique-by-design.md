@@ -12,6 +12,7 @@ I already submitted the Google form, but to recap, here were my main critiques:
 * the color choice for women stood out more than men, who I believe were supposed to be the main character
 * the main objective of the story felt loss in the volume of information provided
 * there are more insights for men than for women, which may be dramatizing the contrast between the two
+
 My main objective with the redesign is to better highlight the comparison between the genders (mainly that men wash their hands less).
 
 ## Step 3: Sketch out a solution
@@ -45,7 +46,7 @@ So, when I looked at the data provided through Makeover Monday, there was much l
 
 ![image](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/2341fa73-64c4-4bb7-bfbc-d2c2f9cf9c14)
 
-I struggled a bit with making the diverging chart (I'm a Tableau amateur), but I figured it out. Initially, I was only going to show the percentage of men and women who always washed their hands per scenario, but then I noticed that people actually reported the _never_ wash their hands. I had to include that in the story (because wild). I added the whole spectrum (always, most of the time, sometimes, rarely, never and don't know) into stacked bars. 
+I struggled a bit with making the diverging chart (I'm a Tableau amateur), but I figured it out. Initially, I was only going to show the percentage of men and women who always washed their hands per scenario, but then I noticed that people actually reported they _never_ wash their hands. I had to include that in the story (because wild). I added the whole spectrum (always, most of the time, sometimes, rarely, never and don't know) into stacked bars. 
 
 However, then I struggled to find how to make the men side a different color story from the other side. It took me an embarassing amount of time, but I figured out that I needed to make an additional legend for men. I chose blue teal for men and a pinkish purple for women (the more often they washed their hands, the darker the color). I also grayed out the "Don't know" response. 
 
