@@ -1,16 +1,26 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [critique by design](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Project Proposal: The Land of Beaches, Culture, Displacement and Inequity
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+## High-Level Summary
+Similar to one of my previous assignments, I have decided to take a confirmatory approach with my final project. I also chose a... complicated story. So, let's go on this journey together. :blush:
+
+* **Context**: In the past 7 years (i.e., after hurricane María), displacement and gentrification have taken over island-Puerto Rican discourse as a hot, political topic. Many seem to blame the enactment of Act 20 and Act 22 of 2012 (now merged into Act 60), which provides hefty tax incentives to external businesses and investors (mainly US Americans). Specifically with Act 22, incentives cannot apply to locals. 
+*  **Problem/Story**: Has Act 60 impacted displacement/gentrification in Puerto Rico in the past 7 years?
+*  **Hypothesis/Assumption**: Act 60 has increased desplacement/gentirifcation in Puerto Rico, mostly due to its impact on housing values.
+*  **Metrics to analyze**
+   - Migration patterns
+   - Housing values
+   - Poverty rates
+   - Gini index
+   - Act 60 approvals
+
+**Note:**: I'm considering comparing some of these metrics between the municipality of Dorado and Puerto Rico at large. 
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
-Text here...
+* **My sister's story**: describing the difficulty of finding real estate in Puerto Rico. 
+* **Snapshot: Puerto and the US**: providing a summary of the relationship between the US and Puerto Rico, mainly aspects that impact cost of living and migration.  
+* **Poverty Rate of PR v. US states**: data viz #1 - show the jarring poverty rate of Puerto Rico. 
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
