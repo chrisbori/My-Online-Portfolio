@@ -21,28 +21,32 @@ Similar to one of my previous assignments, I have decided to take a confirmatory
 **Note:**: I am measuring displacement through outmigration, which will only reflect those who have left Puerto Rico. This is not perfect, but I found it difficult to obtain data on internal migration in direct linkage to displacement. With outmigration, this link is less blurry. Also, I am measuring gentrification through the increase in housing values and the increase in cash purchases of real estate. 
 
 # Outline
-** Summary**: I love summaries, so I  must. This section will be similar to the high-level summary above, but it will include a findings section and a conclusion section. 
+### Summary 
+I love summaries, so I  must. This section will be similar to the high-level summary above, but it will include a findings section and a conclusion section. 
 
-**Introduction**
+### Introduction
 * **My sister's story**: I want to start by grounding the project on a single story. I will use my sister's experience to describe the difficulty of finding real estate in Puerto Rico.
 * **Why this matters**: I will assume Puerto Rican islanders are the main audience for this project. Here, I will describe how the answer to the question above can deepen our understanding of current issues in Puerto Rico and how that can translate to actions.
 * **Snapshot: Puerto and the US**: I will assume US Americans are the secondary audience for this project. As such, I'll provide a summary of the relationship between the US and Puerto Rico, mainly aspects that impact cost of living and migration.  
   - **Poverty Rate of PR v. US states**: data viz #1 - show the jarring poverty rate of Puerto Rico. 
 
-**Act 20 and 22**: This section will provide a deeper (but still summarized) understanding of the Acts in question. I will mainly highlight certain changes from 2012 until now. For example, the governor eleminated the requirement to buy a property in Puerto Rico for Act 22 eligbility in 2017, which reignited the debate and arguably increased the rate of displacement (Suárez, Rodríguez Velázquez, and Sosa Pascual, 2022).
+### Act 20 and 22
+This section will provide a deeper (but still summarized) understanding of the Acts in question. I will mainly highlight certain changes from 2012 until now. For example, the governor eleminated the requirement to buy a property in Puerto Rico for Act 22 eligbility in 2017, which reignited the debate and arguably increased the rate of displacement (Suárez, Rodríguez Velázquez, and Sosa Pascual, 2022).
 * **Approvals of Act 60 2012-2022**: data viz #2 - This will show the increase of approvals from 2017 till now.
 
-**Puerto Rican migration and poverty**: This section wil describe the migration patterns of Puerto Rico, i.e., the continuous exodus of Puerto Ricans to the United States
+### Puerto Rican migration and poverty
+This section wil describe the migration patterns of Puerto Rico, i.e., the continuous exodus of Puerto Ricans to the United States
 * **Population changes in Puerto Rico**: data viz #3 - This will show the shift in population in Puerto Rico overtime, i.e., the continuous exodus. 
 * **Correlation between Migration Pattern and Poverty Rate**: data viz #4 - This will also be confirmatory. I suspect there to be a negative relationship, indicative of displacement, i.e., most emigrants were below the poverty line, and as a result, exodus results in lower poverty rates. Not concreely sure this is the section for this viz, but we'll see.
 
-**Housing Values in Puerto Rico: "Está cañón"**: This section will dive into the increasing housing values in Puerto Rico. 
+### Housing Values in Puerto Rico: "Está cañón"
+This section will dive into the increasing housing values in Puerto Rico. 
 * **Housing values in Puerto Rico over the years**: data viz #5 - This will show how housing values have changed over time.
 * **Housing purchases in cash**: data viz #6 - I'm having trouble getting this data, mainly due to the lack of documentation on cash purchases. In Puerto Rico, there law does not require tracking of real estate cash purchases (Suárez, Rodríguez Velázquez, and Sosa Pascual, 2022). However, the Centro de Periodismo Investigativo (Center of Investigative Journalism) was able to create a data viz with this information, which they warn heavily underestimates that actual amount of cash purchases ocurring in Puerto Rico (it still shows in insane increase in cash purchasing after 2017/20). If I cannot get a hold of this data, I may just use their viz and cite it.
 * **Correlation of housing values and approvals of act 60**: data viz #7 - This will show a positive correlation between the two. This makes sense: if houses are sold cash-only, then who can actually just throw hudreds of thousands of dollars in cash? Yes, the richy rich. 
 * **Correlation of housing values and migration**: data viz #7 - This is confirmatory. I'm guess a positive relationship between values and ourmigraiton. 
 
-**Key Takeaways**
+### Key Takeaways
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
