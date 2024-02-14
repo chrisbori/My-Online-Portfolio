@@ -84,7 +84,7 @@ There are three exceptions that are not from the US Census:
 * (If I get it) Data on cash purchases of housing from the Centro de Periodismo Investigativo (Center of Investigative Journalism) / Tasamax to reflect increasing inaccessibility to property for dataviz #6. 
 
 Here is a list of my data sources:
-* [Poverty Status in the Past 12 Months]([url](https://data.census.gov/table/ACSST5Y2022.S1701?q=poverty&g=040XX00US72&tp=false&tid=ACSST5Y2017.S1701)): provides the poverty rate of Puerto Rico at a given year (I toggled the year and downloaded the dataset for each year)
+* [Poverty Status in the Past 12 Months](https://data.census.gov/table/ACSST5Y2022.S1701?q=poverty&g=040XX00US72&tp=false&tid=ACSST5Y2017.S1701): provides the poverty rate of Puerto Rico at a given year (I toggled the year and downloaded the dataset for each year)
 * [Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico April 1, 2010 to July 1, 2019]([url](https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/totals/nst-est2019-01.xlsx)): provides the population counts for Puerto Rico from 2010 - 2019
 * [Annual Estimates of the Resident Population for the United States, Regions, States, District of Columbia, and Puerto Rico: April 1, 2020 to July 1, 2023]([url](https://www2.census.gov/programs-surveys/popest/tables/2020-2023/state/totals/NST-EST2023-POP.xlsx)): provides the population counts for Puerto Rico from 2020-23
 * [Housing Values]([url](https://data.census.gov/table/ACSDT1Y2022.B25075?q=housing%20values&g=040XX00US72)): provides housing values categorized through ranges in Puerto Rico (I toggled the year and downloaded the dataset for each year)
