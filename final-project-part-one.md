@@ -73,20 +73,26 @@ Like I mentioned before, all correlations will have a standard scatter plot, but
 ![WhatsApp Image 2024-02-13 at 23 07 03_57b57795](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/db5ca4df-d8cc-472e-ba26-f8b97e67f8e2)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+Nearly all of my data is from the US Census Bureau (American Community Survey). This includes:
+* Poverty rates from 2012 - 2022 of US states to compare the Puerto Rico poverty rate with US states in dataviz #1.
+* Population counts of Puerto Rico from 2012 - 2022 to identify outmigration patterns and correlate the data with poverty in dataviz #4.
+* Housing values in Puerto Rico from 2012 - 2022 to visualize change over the years in dataviz #5 and compare/correlate with other data (migration and approvals of act 60).
 
-Text here...
+There are three exceptions that are not from the US Census:
+* Data on Puerto Rico housing sales from the PR Office of the Commissioner of Financial Institutions: this is backup data and may replace housing values data from the US Census in my data vizualizations above.
+* Data on Act 60 requests and approvals from 2012-2022 from the Instituto de Estadísticas de PR (Institute of Stats of PR) to showcase in dataviz #5 and compare to housing values in dataviz #7.
+* (If I get it) Data on cash purchases of housing from the Centro de Periodismo Investigativo (Center of Investigative Journalism) / Tasamax to reflect increasing inaccessibility to property for dataviz #6. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+Here is a list of my data sources:
+* [Poverty Status in the Past 12 Months]([url](https://data.census.gov/table/ACSST5Y2022.S1701?q=poverty&g=040XX00US72&tp=false&tid=ACSST5Y2017.S1701)): provides the poverty rate of Puerto Rico at a given year (I toggled the year and downloaded the dataset for each year)
+* [Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico April 1, 2010 to July 1, 2019]([url](https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/totals/nst-est2019-01.xlsx)): provides the population counts for Puerto Rico from 2010 - 2019
+* [Annual Estimates of the Resident Population for the United States, Regions, States, District of Columbia, and Puerto Rico: April 1, 2020 to July 1, 2023]([url](https://www2.census.gov/programs-surveys/popest/tables/2020-2023/state/totals/NST-EST2023-POP.xlsx)): provides the population counts for Puerto Rico from 2020-23
+* [Housing Values]([url](https://data.census.gov/table/ACSDT1Y2022.B25075?q=housing%20values&g=040XX00US72)): provides housing values categorized through ranges in Puerto Rico (I toggled the year and downloaded the dataset for each year)
+* [Publicar Compra y Venta de Viviendas Nuevas y Usadas Sept. 2010 @ Dic. 2021]([url](https://estadisticas.pr/files/Inventario/publicaciones/Publicar%20Compra%20y%20Venta%20de%20Viviendas%20Nuevas%20y%20Usadas%20Sept.%202010%20%40%20Dic.%202021.xlsx)): provides housing sales and purchases data in Puerto Rico from 2010 - 2021
+* [Tablas IEPR de Decretos Radicados y Aprobados DDEC - Abril 2022]([url](https://estadisticas.pr/files/Inventario/publicaciones/Tablas%20IEPR%20de%20Decretos%20Radicados%20y%20Aprobados%20DDEC%20-%20Abril%202022.xlsx)): provides the number of requests and pprovals of PR Act 60 from 2012-2022.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I will use a mixture of Tableau and Excel to complete this project. All correlational analyses will be conducted in Excel, however, correlational data vizualizations will still be created in Tableau. All other data visualizations will be created in Tableau as well. I will very probably use Shorthand to put my story together in an immersive manner.
 
 # References
 Acevedo, Nicole. 2023. “Do Puerto Rico Tax Breaks Displace Locals to Benefit the Wealthy?” NBC News. September 13, 2023. https://www.nbcnews.com/news/latino/tax-breaks-puerto-rico-wealthy-displacement-five-things-to-know-rcna104683.
