@@ -36,7 +36,7 @@ This section will provide a deeper (but still summarized) understanding of the A
 
 ### Puerto Rican migration and poverty
 This section wil describe the migration patterns of Puerto Rico, i.e., the continuous exodus of Puerto Ricans to the United States
-* **Population changes in Puerto Rico**: data viz #3 - This will show the shift in population in Puerto Rico overtime, i.e., the continuous exodus. 
+* **Population change rates in Puerto Rico**: data viz #3 - This will show the shift in population in Puerto Rico overtime, i.e., the continuous exodus. 
 * **Correlation between Migration Pattern and Poverty Rate**: data viz #4 - This will also be confirmatory. I suspect there to be a negative relationship, indicative of displacement, i.e., most emigrants were below the poverty line, and as a result, exodus results in lower poverty rates. Not concreely sure this is the section for this viz, but we'll see.
 
 ### Housing Values in Puerto Rico: "Está cañón"
@@ -49,9 +49,28 @@ This section will dive into the increasing housing values in Puerto Rico.
 ### Key Takeaways
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+**All correlations will use standard scatter plots**
 
-Text here...
+**Poverty Rate of PR v. US states**: data viz #1 
+![WhatsApp Image 2024-02-13 at 22 36 50_ec781e17](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/95582c0e-63f1-46b5-ae72-4780ce0b69
+![WhatsApp Image 2024-02-13 at 22 47 21_00012e3f](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/e0df9186-433a-41bc-b037-1e5564f37cdc)
+32)
+
+**Approvals of Act 60 2012-2022**: data viz #2 
+![WhatsApp Image 2024-02-13 at 22 41 18_f17f32d8](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/f9f520f2-8104-466c-b59f-cd8b54163ec3)
+
+**Population change rates in Puerto Rico**: data viz #3 
+![WhatsApp Image 2024-02-13 at 22 52 54_1d0fea8f](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/0ea9f3b4-94cd-4b5e-9131-d74e084e3fd0)
+
+**Housing values in Puerto Rico over the years**: data viz #5 
+![WhatsApp Image 2024-02-13 at 23 00 32_2048499e](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/ab3092ce-bd49-4617-a710-3a2754fd04d6)
+
+**Housing purchases in cash**: data viz #6 
+![image](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/42197274-62c7-4ce4-9dea-b24d6b7f25d5)
+
+**Correlation of housing values and approvals of act 60**: data viz #7 
+Like I mentioned before, all correlations will have a standard scatter plot, but I am considering the possibility of not using a correlational chart for this one. Instead, I may place two separate line charts right nect to each other with the same years (one for housing values and one for approvals).
+![WhatsApp Image 2024-02-13 at 23 07 03_57b57795](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/db5ca4df-d8cc-472e-ba26-f8b97e67f8e2)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
