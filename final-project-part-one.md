@@ -52,7 +52,7 @@ This section will dive into the increasing housing values in Puerto Rico.
 **All correlations will use standard scatter plots**
 
 **Poverty Rate of PR v. US states**: data viz #1 
-![WhatsApp Image 2024-02-13 at 22 36 50_ec781e17](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/95582c0e-63f1-46b5-ae72-4780ce0b69
+![WhatsApp Image 2024-02-13 at 22 36 50_ec781e17](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/95582c0e-63f1-46b5-ae72-4780ce0b69)
 ![WhatsApp Image 2024-02-13 at 22 47 21_00012e3f](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/e0df9186-433a-41bc-b037-1e5564f37cdc)
 32)
 
@@ -85,11 +85,11 @@ There are three exceptions that are not from the US Census:
 
 Here is a list of my data sources:
 * [Poverty Status in the Past 12 Months](https://data.census.gov/table/ACSST5Y2022.S1701?q=poverty&g=040XX00US72&tp=false&tid=ACSST5Y2017.S1701): provides the poverty rate of Puerto Rico at a given year (I toggled the year and downloaded the dataset for each year)
-* [Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico April 1, 2010 to July 1, 2019]([url](https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/totals/nst-est2019-01.xlsx)): provides the population counts for Puerto Rico from 2010 - 2019
-* [Annual Estimates of the Resident Population for the United States, Regions, States, District of Columbia, and Puerto Rico: April 1, 2020 to July 1, 2023]([url](https://www2.census.gov/programs-surveys/popest/tables/2020-2023/state/totals/NST-EST2023-POP.xlsx)): provides the population counts for Puerto Rico from 2020-23
-* [Housing Values]([url](https://data.census.gov/table/ACSDT1Y2022.B25075?q=housing%20values&g=040XX00US72)): provides housing values categorized through ranges in Puerto Rico (I toggled the year and downloaded the dataset for each year)
-* [Publicar Compra y Venta de Viviendas Nuevas y Usadas Sept. 2010 @ Dic. 2021]([url](https://estadisticas.pr/files/Inventario/publicaciones/Publicar%20Compra%20y%20Venta%20de%20Viviendas%20Nuevas%20y%20Usadas%20Sept.%202010%20%40%20Dic.%202021.xlsx)): provides housing sales and purchases data in Puerto Rico from 2010 - 2021
-* [Tablas IEPR de Decretos Radicados y Aprobados DDEC - Abril 2022]([url](https://estadisticas.pr/files/Inventario/publicaciones/Tablas%20IEPR%20de%20Decretos%20Radicados%20y%20Aprobados%20DDEC%20-%20Abril%202022.xlsx)): provides the number of requests and pprovals of PR Act 60 from 2012-2022.
+* [Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico April 1, 2010 to July 1, 2019](https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/totals/nst-est2019-01.xlsx): provides the population counts for Puerto Rico from 2010 - 2019
+* [Annual Estimates of the Resident Population for the United States, Regions, States, District of Columbia, and Puerto Rico: April 1, 2020 to July 1, 2023](https://www2.census.gov/programs-surveys/popest/tables/2020-2023/state/totals/NST-EST2023-POP.xlsx): provides the population counts for Puerto Rico from 2020-23
+* [Housing Values](https://data.census.gov/table/ACSDT1Y2022.B25075?q=housing%20values&g=040XX00US72): provides housing values categorized through ranges in Puerto Rico (I toggled the year and downloaded the dataset for each year)
+* [Publicar Compra y Venta de Viviendas Nuevas y Usadas Sept. 2010 @ Dic. 2021](https://estadisticas.pr/files/Inventario/publicaciones/Publicar%20Compra%20y%20Venta%20de%20Viviendas%20Nuevas%20y%20Usadas%20Sept.%202010%20%40%20Dic.%202021.xlsx): provides housing sales and purchases data in Puerto Rico from 2010 - 2021
+* [Tablas IEPR de Decretos Radicados y Aprobados DDEC - Abril 2022](https://estadisticas.pr/files/Inventario/publicaciones/Tablas%20IEPR%20de%20Decretos%20Radicados%20y%20Aprobados%20DDEC%20-%20Abril%202022.xlsx): provides the number of requests and pprovals of PR Act 60 from 2012-2022.
 
 # Method and medium
 I will use a mixture of Tableau and Excel to complete this project. All correlational analyses will be conducted in Excel, however, correlational data vizualizations will still be created in Tableau. All other data visualizations will be created in Tableau as well. I will very probably use Shorthand to put my story together in an immersive manner.
