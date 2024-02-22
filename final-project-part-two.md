@@ -6,6 +6,8 @@
 <iframe title="2022 US Poverty Rates" aria-label="Bar Chart" id="datawrapper-chart-aGWCm" src="https://datawrapper.dwcdn.net/aGWCm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1374" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
+<div style="min-height:1374px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/aGWCm/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/aGWCm/full.png" alt="Puerto Rico has the highest poverty rate in the United States, which is 42%. The second highest poverty rate is in New Mexico, which reaches 20%." /></noscript></div>
+
 Text here!
 
 # User research 
