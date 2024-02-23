@@ -26,6 +26,8 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);  
 </script>
 
+<div style="min-height:400px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/Rgo8B/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/Rgo8B/full.png" alt="This chart shows an increase in the amount of houses with a value and $250,000 and more. " /></noscript></div>
+
 Text here!
 
 # User research 
