@@ -1,4 +1,4 @@
-| [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [critique by design](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one) | [final project II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [critique by design](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one) | [final project II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two) | [final project III](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
 
 # The final data story
 <script src="https://carnegiemellon.shorthandstories.com/whats-left-here-puerto-ricos-act-22/embed.js"></script>
