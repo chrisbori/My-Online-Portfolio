@@ -5,7 +5,10 @@
 
 # Portfolio
 Welcome to my online data visualization portfolio! I made this as part of the Telling Stories with Data course. I hope you enjoy!
+
 **Note:** My professor is still grading some components of this site, so this is still mostly catered to the course. 
+
+The main character of this portfolio is my final project. Here is a dirct link: https://carnegiemellon.shorthandstories.com/whats-left-here-puerto-ricos-act-22/index.html 
 
 # About me
 
