@@ -5,7 +5,7 @@
 ## High-Level Summary
 Similar to one of my previous assignments, I have decided to take a confirmatory approach with my final project. I also chose a... complicated story. So, let's go on this journey together. :blush:
 
-**Note:**: Whenever I use the word "external", it refers to anything outside of Puerto Rico, including the United States. 
+**Note:** Whenever I use the word "external", it refers to anything outside of Puerto Rico, including the United States. 
 
 *  **Problem/Story**: Has Act 60 impacted displacement/gentrification in Puerto Rico in the past 7 years? 
 *  **Hypothesis/Assumption**: Act 60 has increased displacement/gentrification in Puerto Rico, mostly due to its impact on housing values.
