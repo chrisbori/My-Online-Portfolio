@@ -66,14 +66,14 @@ Act 20 and Act 22 were enacted in 2012, now merged into Act 60. Act 20 reduces t
 ## Interview findings
 I interviewed one of my sisters and two of my friends, all three of which live in the islands. They had very similar things to say (essentially the same), so I'm writing my findings in one excerpt. 
 
-They really liked how I introduced the story. The connected strongly with "growing up in a sinking ship". They expressed the purpose of the story as understanding the impact of ACT 60 on displacement and inequity (jackpot!). They thought that the story was pretty effective, but it needed more. One of them actually brought up including data on inequity (which I was planning on including but had completely forgotten about!). They also mentioned there should be more direct comparison between housing values and act 22 approvals. From a perceptibility standpoint, they described my charts as easy to digest. Two fo the three interviewers said my storyboard thing was a mess (leave it to them to read me for filth), but they all liked the color scheme. Overall, great impact and connection, but gotta flesh out more comparisons for the story. 
+They really liked how I introduced the story. The connected strongly with "growing up in a sinking ship". They expressed the purpose of the story as understanding the impact of ACT 60 on displacement and inequity (jackpot!). They thought that the story was pretty effective, but it needed more. One of them actually brought up including data on inequity (which I was planning on including but had completely forgotten about!). They also mentioned there should be more direct comparison between housing values and act 22 approvals. From a perceptibility standpoint, they described my charts as easy to digest. Two of the three interviewers said my storyboard thing was a mess (leave it to them to read me for filth), but they all liked the color scheme. Overall, great impact and connection, but gotta flesh out more comparisons for the story. 
 
 One of them mentioned including the amount of donations political parties in PR receive from Act 22 beneficiaries (tea)
 
 # Identified changes for Part III
 *I might rethink my storyboad a bit (they got to my head)
 *I found the gini index data for Puerto Rico in the US Census, so I'm incorporating that into the story. I'm thinking of contrasting this to the benefits of Act 22 (which are measured by an increase in jobs by the government)
-*I'm definitely including the party donations data, because come on (it's a lot of money)
+*I'm thinking of including the party donations data
 *I have to add my call to action (I'm frankly still a little bit unsure, but I'm considering routing the girls to a community activist group). 
 
 
