@@ -4,9 +4,13 @@
 - This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/chrisbori/My-Online-Portfolio)
 
 # Portfolio
-Welcome to my online data visualization portfolio! Here's where all my cool work will go, mainly data stories with vizualizations. I hope you enjoy!
+Welcome to my online data visualization portfolio! I made this as part of the Telling Stories with Data course. I hope you enjoy!
+**Note:** My professor is still grading some components of this site, so this is still mostly catered to the course. 
 
 # About me
+
+![WhatsApp Image 2023-10-10 at 11 07 50_850e0992](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/1df218ab-08d0-47a3-9d8e-660c06ea722b)
+
 I'm a user-centric, digital transformation leader (and avid coffee-drinker) graduating from Carnegie Mellon University in May 2025. I'm proudly (some would say too proudly) from Carolina, Puerto Rico. 
 
 I have a bachelor's degree in Policy Studies from the Maxwell School of Citizenship and Public Affairs at Syracuse University, where I gained communication, data analysis, and problem-solving skills. I then took those skills (and my Puerto Rican coffee beans) to the City of Syracuse as the first employee hired in the Digital Services division of IT. Our team built a digital transformation roadmap and developed product implementation frameworks for the City. My biggest role entailed the discovery and implementation of the City's new timekeeping system as the product lead. To increase my technical acumen, I am now pursuing a Master of Science in Public Policy and Management with a focus on Data Analytics from the Heinz College of Information Systems and Public Policy at Carnegie Mellon University. 
@@ -28,6 +32,6 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one)
+[Part II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two)
+[Part III](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) 
