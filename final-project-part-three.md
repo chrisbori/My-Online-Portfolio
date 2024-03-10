@@ -1,6 +1,7 @@
 | [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [critique by design](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one) | [final project II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two) | [final project III](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
 
 # The final data story
+[What's left here? Puerto Rico's Act 22](https://carnegiemellon.shorthandstories.com/whats-left-here-puerto-ricos-act-22/index.html)
 <script src="https://carnegiemellon.shorthandstories.com/whats-left-here-puerto-ricos-act-22/embed.js"></script>
 
 # Changes made since Part II
@@ -25,3 +26,5 @@ The hardest part was collecting and cleaning the data. I used a mixture of Puert
 I really tried to incorporate the storytelling aspect of the project into my writing. Nearly every section starts with a snippet of a story, kind of. I hope it was awesome :)
 
 Overall, I loved this project. It was very time consuming, but it was VERY time consuming. No, but seriously, it ewas really cool. Even in other course projects, I have noticed being unconsciously methodical about how I build visuals (whether a data viz or not). So thank you. 
+
+| [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [critique by design](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one) | [final project II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two) | [final project III](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
