@@ -77,5 +77,4 @@ One of them mentioned including the amount of donations political parties in PR 
 *I'm thinking of including the party donations data
 *I have to add my call to action (I'm frankly still a little bit unsure, but I'm considering routing the girls to a community activist group). 
 
-
-
+| [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [critique by design](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one) | [final project II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two) | [final project III](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
