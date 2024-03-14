@@ -1,14 +1,11 @@
 | [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [critique by design](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one) | [final project II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two) | [final project III](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
+# My online portfolio
+Welcome to my online portfolio! :blush: 
 
-- Web page URL: https://chrisbori.github.io/My-Online-Portfolio/
-- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/chrisbori/My-Online-Portfolio)
+This includes a taste of my talents with data analytics and coding, excluding my work with sensitive data. Navigate through the navigation tabs to see some of my work with Tableau, DataFrame, and Shorthand (a Python data project is comming soon). I hope you enjoy!
 
-# Portfolio
-Welcome to my online data visualization portfolio! I made this as part of the Telling Stories with Data course. I hope you enjoy!
-
-**Note:** My professor is still grading some components of this site, so this is still mostly catered to the course. 
-
-The main character of this portfolio is my final project. Here is a [direct link](https://carnegiemellon.shorthandstories.com/whats-left-here-puerto-ricos-act-22/index.html)  
+Vist my [LinkedIn](https://www.linkedin.com/in/candinob/)
+Visit my [data story with Puerto Rico's Act 22](https://carnegiemellon.shorthandstories.com/whats-left-here-puerto-ricos-act-22/index.html)
 
 # About me
 
@@ -16,7 +13,7 @@ The main character of this portfolio is my final project. Here is a [direct link
 
 I'm a user-centric, digital transformation leader (and avid coffee-drinker) graduating from Carnegie Mellon University in May 2025. I'm proudly (some would say too proudly) from Carolina, Puerto Rico. 
 
-I have a bachelor's degree in Policy Studies from the Maxwell School of Citizenship and Public Affairs at Syracuse University, where I gained communication, data analysis, and problem-solving skills. I then took those skills (and my Puerto Rican coffee beans) to the City of Syracuse as the first employee hired in the Digital Services division of IT. Our team built a digital transformation roadmap and developed product implementation frameworks for the City. My biggest role entailed the discovery and implementation of the City's new timekeeping system as the product lead. To increase my technical acumen, I am now pursuing a Master of Science in Public Policy and Management with a focus on Data Analytics from the Heinz College of Information Systems and Public Policy at Carnegie Mellon University. 
+I bring **experience with enterprise-level product implementation and road mapping, change management, and project management coupled with rigorous academics in data analytics and modeling**. In any team I’m a part of, my goal is to understand what people need in order to create the safest space possible for everyone. I think this brings out the best quality outputs from me, and I believe it’s the same for those in my team. I could bring this work ethic and adaptability to your team and organization to drive desired results. I could **connect to empower**.
 
 # What I hope to learn
 
