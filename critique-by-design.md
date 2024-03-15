@@ -20,7 +20,8 @@ I came up with three sketches, which I then rated as "simple, but engaging", "si
 
 ![WhatsApp Image 2024-02-04 at 14 24 46_9e88a851](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/7a21bf78-e7c4-4474-b29c-461471b6618a)
 
-IN the end, I chose the **diverging bar chart**.
+
+In the end, I chose the **diverging bar chart**.
 
 # My redesign
                
@@ -33,6 +34,7 @@ IN the end, I chose the **diverging bar chart**.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';            
   vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
+
 
 So, when I looked at the data provided through Makeover Monday, there was much less than I expected. E.g., the original chart included "standing wee" and "sitting wee", but these was not in the data file. There were only three scenarios in the data: while at work, while at home, and while out:
 
