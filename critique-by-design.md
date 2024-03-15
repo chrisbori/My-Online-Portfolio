@@ -30,16 +30,15 @@ The first critic liked the diverging bar the best. They understood the comparati
 Based on this, I chose the diverging bar chart and decided to include the location/date in the title: "Men in the UK are less likely to wash their hands after going to the toilet in 2017"
 
 # Step 5: Build your solution
-<div class='tableauPlaceholder' id='viz1707278002518' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;9R&#47;9RBT8F4KW&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;9RBT8F4KW' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;9R&#47;9RBT8F4KW&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1707278002518');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
-  else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
-  else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+               
+<div class='tableauPlaceholder' id='viz1710472804168' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ev&#47;Everybodypoops_17072770360450&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Everybodypoops_17072770360450&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ev&#47;Everybodypoops_17072770360450&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>      
+<script type='text/javascript'>            
+  var divElement = document.getElementById('viz1710472804168');            
+  var vizElement = divElement.getElementsByTagName('object')[0];   
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}       
+  var scriptElement = document.createElement('script');            
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';            
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
 
 So, when I looked at the data provided through Makeover Monday, there was much less than I expected. I thought there would be more data (e.g., the original chart included standing wee and sitting wee, but this was not in the file). There were only three scenarios in the data: while at work, while at home, and while out:
