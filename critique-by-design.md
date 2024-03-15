@@ -1,14 +1,14 @@
 | [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [critique by design](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one) | [final project II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two) | [final project III](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
 
 # Everybody poops, but not everybody washes their hands
+For my Telling Stories with Data class, I had to critique and redesign a visualization listed in [https://makeovermonday.co.uk/](https://makeovermonday.co.uk/).
 
-## Step 1: Choose a data visualization
 I browsed different articles within the Makeover Monday link for about 30 minutes, and many of these were insteresting. However, when I read the title "Everybody poops", I needed to know more. I found the following chart claiming that men are less likely to wash their hands after going to the toilet, which I instantly believed because I know my people (PS: they don't represent me). I chose my target. 
 
 ![image](https://github.com/chrisbori/My-Online-Portfolio/assets/157328962/94488024-1aca-4e74-b6bc-834cdd40ede2)
 
-## Step 2: Critique the data vizualization
-I already submitted the Google form, but to recap, here were my main critiques:
+## Critiquing the data vizualization
+Here are my main critiques:
 * the color choice for women stood out more than men, who I believe were supposed to be the main character
 * the main objective of the story felt loss in the volume of information provided
 * there are more insights for men than for women, which may be dramatizing the contrast between the two
