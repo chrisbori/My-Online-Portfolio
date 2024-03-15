@@ -3,7 +3,9 @@
 # Visualizing Government Debt
 This data, sourced from the Organisation for Economic Co-operation and Development (OECD), lists the government debts of 42 countries as percentages of their GDPs from 1995 to 2022. For these visualizations, I excluded Colombia because of insufficient data. In the three charts below, we see three different methods of visualization telling a data story about government debt. My professor chose the first two data visualization types while I chose the third one, though I did develop all the visualizations. 
 
+
 <iframe src="https://data.oecd.org/chart/7klU" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7klU" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+
 
 The bar chart, which the [OECD](https://data.oecd.org/) website produced for us, shows the government debts by country in ascending order on 2018. This visually communicates the vast variability of debt between countries. It also shows how much higher Japan and Greece's government debts are in contrast with the other countries. However, I also want to see how debt has changed across time while still seeing each country. A bar chart would be difficult to read/digest in such a context. For this reason, I produced the second visualization.
 
@@ -17,6 +19,7 @@ The bar chart, which the [OECD](https://data.oecd.org/) website produced for us,
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 The highlight table shows each country's GDP from 1995 to 2022. I chose a diverging color palette, from blue (lowest) to orange (highest) and 100 set as the neutral / perfect in between. The color palette gives us a visual representation of the variability in debt between countries (much like the bar chart does with the heights of the rectangles). We also show the data in descending order to provide a readable visual story. On top of visibly seeing the variability between countries, this method allows us to see variability across time. The chart shows that government debt has generally been increasing overtime across the board. 
 
 <div class='tableauPlaceholder' id='viz1706500011331' style='position: relative'><noscript><a href='#'><img alt='Changes in the government debts of the most and least indebted countries after the pandemic ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;Changesinthegovernmentdebtsofthemostandleastindebtedcountriesafterthepandemic&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Changesinthegovernmentdebtsofthemostandleastindebtedcountriesafterthepandemic&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;Changesinthegovernmentdebtsofthemostandleastindebtedcountriesafterthepandemic&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
@@ -28,6 +31,7 @@ The highlight table shows each country's GDP from 1995 to 2022. I chose a diverg
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 The third method of data visualization is a line chart (the one I chose). I was playing around with the data trying to identify stories that peaked my interest. Then I thought about the pandemic, and I wondered if there may have been a shift in governemnt debts after 2020. As a result, I took a confirmatory approach: **My goal was to confirm whether the pandemic had a short term impact on government debt. As part of the story, I also wanted to know if the impact was different between the most and least indebted countries.** 
 
