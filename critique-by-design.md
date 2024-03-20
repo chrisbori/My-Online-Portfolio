@@ -1,4 +1,4 @@
-| [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [everybody poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one) | [final project II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two) | [final project III](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
 
 # Critque by redesign: Everybody poops, but not everybody washes their hands
 For my Telling Stories with Data class, I had to critique and redesign a visualization listed in [https://makeovermonday.co.uk/](https://makeovermonday.co.uk/).
@@ -63,4 +63,4 @@ I was going to leave it at that, but I hated the two legend keys. I thought they
 
 I hope you like this!... Well, not that some people don't wash their hands, just the redesign. 
 
-| [home page](https://chrisbori.github.io/My-Online-Portfolio/) | [visualizing debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [everybody poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [final project I](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-one) | [final project II](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-two) | [final project III](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
