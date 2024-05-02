@@ -3,7 +3,7 @@
 # My online portfolio
 Welcome to my online portfolio! 
 
-This includes a taste of my talents with data analytics and coding, excluding my work with sensitive data. Most of the content comes from deliverables I produced for classes in my Masters, though some may have been for fun. Navigate through the navigation tabs to see some of my work with Tableau, DataWrapper, and Shorthand (a Python data project is comming soon). I hope you enjoy! 😊
+This includes a taste of my talents with data analytics and coding, excluding my work with sensitive data. Most of the content comes from deliverables I produced for classes in my Masters, though some may have been for fun. Navigate through the navigation tabs to see some of my work with Tableau, DataWrapper, and Shorthand. I hope you enjoy! 😊
 
 * Visit my [LinkedIn](https://www.linkedin.com/in/candinob/)
 * Visit my [data story with Puerto Rico's Act 22](https://carnegiemellon.shorthandstories.com/whats-left-here-puerto-ricos-act-22/index.html)
