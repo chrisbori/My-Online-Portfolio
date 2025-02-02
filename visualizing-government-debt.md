@@ -4,9 +4,11 @@
 This data, sourced from the Organisation for Economic Co-operation and Development (OECD), lists the government debts of 42 countries as percentages of their GDPs from 1995 to 2022. For these visualizations, I excluded Colombia because of insufficient data. In the three charts below, we see three different methods of visualization telling a data story about government debt. My professor chose the first two data visualization types while I chose the third one, though I did develop all the visualizations. 
 
 
-<iframe src="https://data-viewer.oecd.org?chartId=df4d404b-916b-43d1-b8b5-7c1eff05c684" style="border: none"; allowfullscreen="true">;
-    <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=df4d404b-916b-43d1-b8b5-7c1eff05c684" target="_blank">Dataflow</a>
-  </iframe>;
+<iframe 
+    src="https://data-viewer.oecd.org?chartId=df4d404b-916b-43d1-b8b5-7c1eff05c684"
+    style="border: none;"
+    allowfullscreen>
+</iframe>
 
 
 The bar chart, which the [OECD](https://data.oecd.org/) website produced for us, shows the government debts by country in ascending order on 2018. This visually communicates the vast variability of debt between countries. It also shows how much higher Japan and Greece's government debts are in contrast with the other countries. However, I also want to see how debt has changed across time while still seeing each country. A bar chart would be difficult to read/digest in such a context. For this reason, I produced the second visualization.
