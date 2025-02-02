@@ -1,7 +1,6 @@
 | [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
 
 
-# My online portfolio
 Welcome to my online portfolio! 
 
 This includes a taste of my talents with data analytics, problem solutioning, AI and coding, excluding my work with sensitive data. Most of the content comes from deliverables I produced for classes in my Masters, though some may be for fun. Browse through the navigation tabs to see the good stuff. I hope you enjoy! 😊
