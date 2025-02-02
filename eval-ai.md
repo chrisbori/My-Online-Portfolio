@@ -15,7 +15,7 @@ An online interface that would enable firms to evaluate their GenAI models on na
 
 ![image](https://github.com/user-attachments/assets/0cc32252-9eb5-4233-8e76-85555026d221)
 
-## Introduction
+## Our Approach
 Generative AI, and particularly LLMs, have hit the public and private sectors by storm, entailing a lieu of new security and testing best practices yet to be discovered. Implementing strategies that mitigate the risk of using GenAI solutions offers both a prescriptive and proactive approach to identifying gaps and vulnerabilities in Bloomberg's AI technologies. However, the public interest technology sector does not have a standard/trusted guideline as to how these strategies. Moreover, some firms within the sector may not have the technical acumen/resources to implement such strategies.  
 
 ![image](https://github.com/user-attachments/assets/ae022cf9-adb3-4e36-83be-508a30ae11a9)
@@ -46,8 +46,6 @@ Own the design of LLM/GenAI testing method. Identify potential weaknesses in AI 
 **Data Security & Ethics Specialist:** Zachary Zwijacz
 
 Focus on strategies to protect user data during testing and in production as well as identifying/preventing biases in AI outputs, particularly discriminatory or offensive responses. Identify privacy risks and help develop red teaming techniques to safeguard sensitive information. Ensure compliance with data privacy laws and guidelines in all test scenarios and provide input on data handling protocols.
-
-## Sprint Structure
 
 ![image](https://github.com/user-attachments/assets/a0414205-1cf4-4416-9223-f61b8ebd35c4)
 
