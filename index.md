@@ -1,4 +1,5 @@
-| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
+
 
 # My online portfolio
 Welcome to my online portfolio! 
@@ -8,7 +9,7 @@ This includes a taste of my talents with data analytics and coding, excluding my
 * Visit my [LinkedIn](https://www.linkedin.com/in/candinob/)
 * Visit my [data story with Puerto Rico's Act 22](https://carnegiemellon.shorthandstories.com/whats-left-here-puerto-ricos-act-22/index.html)
 * Look at my [Resume](https://github.com/user-attachments/files/18633446/Christian.Andino.Borrero.Resume.docx)
-* Look at the Eval-AI onlinte interface
+* Look at [Eval-AI](https://chrisbori.github.io/My-Online-Portfolio/eval-ai), a GenAI compliance framework
 
 
 # About me
@@ -19,4 +20,5 @@ I'm a user-centric, digital transformation leader (and avid coffee-drinker) grad
 
 I bring **experience with enterprise-level product implementation and road mapping, change management, and project management coupled with rigorous academics in data analytics and modeling**. In any team I’m a part of, my goal is to understand what people need in order to create the safest space possible for everyone. I think this brings out the best quality outputs from me, and I believe it’s the same for those in my team. I could bring this work ethic and adaptability to your team and organization to drive desired results. I could **connect to empower**.
 
-| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
+
