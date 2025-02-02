@@ -1,7 +1,7 @@
-| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
 
 # Critque by redesign: Everybody poops, but not everybody washes their hands
-For my Telling Stories with Data class, I had to critique and redesign a visualization listed in [https://makeovermonday.co.uk/](https://makeovermonday.co.uk/).
+For my Telling Stories with Data class, I had to critique and redesign a visualization listed in [https://makeovermonday.co.uk/](https://makeovermonday.co.uk/). My visualization of choice was fun, so I included here.
 
 I browsed different articles within the Makeover Monday link for about 30 minutes, and many of these were insteresting. However, when I read the title "Everybody poops", I needed to know more. I found the following chart claiming that men are less likely to wash their hands after going to the toilet, which I instantly believed because I know my people (PS: they don't represent me). I chose my target. 
 
@@ -63,4 +63,4 @@ I was going to leave it at that, but I hated the two legend keys. I thought they
 
 I hope you like this!... Well, not that some people don't wash their hands, just the redesign. 
 
-| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
