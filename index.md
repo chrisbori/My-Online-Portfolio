@@ -7,7 +7,8 @@ This includes a taste of my talents with data analytics and coding, excluding my
 
 * Visit my [LinkedIn](https://www.linkedin.com/in/candinob/)
 * Visit my [data story with Puerto Rico's Act 22](https://carnegiemellon.shorthandstories.com/whats-left-here-puerto-ricos-act-22/index.html)
-* Look at my [Resume](https://github.com/chrisbori/My-Online-Portfolio/files/14817600/Christian.Andino.Borrero.Resume.pdf)
+* Look at my [Resume](https://github.com/user-attachments/files/18633446/Christian.Andino.Borrero.Resume.docx)
+* Look at the Eval-AI onlinte interface
 
 
 # About me
