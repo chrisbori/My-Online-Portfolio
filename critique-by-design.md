@@ -1,4 +1,4 @@
-| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22 Data Story](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
 
 # Critque by redesign: Everybody poops, but not everybody washes their hands
 For my Telling Stories with Data class, I had to critique and redesign a visualization listed in [https://makeovermonday.co.uk/](https://makeovermonday.co.uk/). My visualization of choice was fun, so I included here.
@@ -63,4 +63,4 @@ I was going to leave it at that, but I hated the two legend keys. I thought they
 
 I hope you like this!... Well, not that some people don't wash their hands, just the redesign. 
 
-| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22 Data Story](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
