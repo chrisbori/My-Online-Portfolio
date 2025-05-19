@@ -1,6 +1,8 @@
 | [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22 Data Story](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
 
-![EvalAI Logo](https://github.com/user-attachments/assets/ef02be1d-131c-4b2d-b3cf-876a6b9705a7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef02be1d-131c-4b2d-b3cf-876a6b9705a7" alt="EvalAI Logo">
+</p>
 
 # **Finalist** for the McGnnis Social Enterprise Venture Competition
 
@@ -8,7 +10,7 @@ We turned a first draft prototype from our Policy Innovation Lab course with Blo
 
 # Eval-AI Model Check
 
-![Screenshot 2025-05-14 134153](https://github.com/user-attachments/assets/e01268de-fca2-4eab-8e27-21b023ddaaf4)
+![image](https://github.com/user-attachments/assets/7bcff22a-763f-48d7-bf7b-3803b7ec18f7)
 
 **As Team Lead for the Eval-AI project**, I worked alongside four team members for **Bloomberg Government** in the Policy Innovation Lab course to apply design thinking principles to a business problem. We designed an open-source compliance evaluation framework for Generative AI models via an [online interface](https://www.figma.com/proto/RscbuGdIkKUeYIRttQDe3y/PIL-Prototype-Design-(FINAL)?node-id=19-2&node-type=canvas&t=v6Gvf3JQeqKgChfB-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A2) and GitHub benchmark models. The framework aims to mitigate risks like hallucinations and prompt misinterpretations in public interest AI applications by assessing AI systems against U.S. AI regulations and responsible AI principles.
 
@@ -62,17 +64,23 @@ Focus on strategies to protect user data during testing and in production as wel
 
 ## Market Opportunity & Problem Statement
 
+![image](https://github.com/user-attachments/assets/b9fa38d8-2941-41e5-8423-e5e35d43a526)
+
 The LLM market is projected to grow from 1.5 million users in 2023 to 259 million by 2030, with 750 million applications expected to integrate LLMs by 2025. As AI adoption accelerates, organizations face increasing regulatory scrutiny due to risks such as hallucinations, bias, and compliance failures. **Current compliance processes are fragmented, manual, and reactive, exposing companies to legal fines, reputational damage, and regulatory penalties—with non-compliance costs reaching up to $1 trillion annually.**
 
 Enterprises in regulated industries such as finance, healthcare, legal, and insurance face the highest risk, with 50,000+ organizations struggling to align AI models with evolving regulations. AI developers, responsible for model integrity, lack standardized compliance frameworks. Meanwhile, government regulators need reliable assessment tools to enforce AI laws effectively. Despite these urgent needs, **no comprehensive compliance testing solution exists today**.
 
 ### EVAL-AI: The Compliance Solution for AI Models
 
+![image](https://github.com/user-attachments/assets/76d07ffe-6e50-4b21-981a-f0f2fc85883b)
+
 EVAL-AI is an automated AI compliance testing framework designed to evaluate LLM applications against AI regulations, industry guidelines, and Responsible AI principles. EVAL-AI provides end-to-end regulatory validation for enterprises, developers, and policymakers. 
 
 EVAL-AI ensures that AI applications meet legal, ethical, and operational compliance standards before deployment—reducing corporate liability, safeguarding reputation, and preventing costly regulatory actions.
 
 ### Why Invest in Us?
+
+![image](https://github.com/user-attachments/assets/554b8aaa-d729-48d1-b28e-10e06e48fc15)
 
 We are the right team because we combine deep expertise in AI policy, regulatory compliance, and business strategy, ensuring a holistic approach to AI evaluation. Our interdisciplinary backgrounds allow us to create a product that is aligned with emerging global AI needs. We are passionate about responsible AI and committed to building a scalable solution that not only meets industry needs but also drives meaningful social impact.
 With the right investment and resources, we are confident in our ability to bring this vision to life.
@@ -129,6 +137,8 @@ We have created a user interactions workflow that ensures Eval-AI remains a valu
 **Total Impact, Annually:** More than 100,000 companies globally deploy GenAI in high-risk domains. AI non-compliance leads to $500B+ in misinformation and fraud losses, $10B+ in regulatory fines and legal fees, and $250B in compliance audits and model validation costs. (Sources: World Economic Forum AI Risk Report 2024, AI Ethics & Compliance Global Report 2023, IDC AI Industry Forecast 2024
 
 ## Target Market Segments
+
+![image](https://github.com/user-attachments/assets/9b141edd-1099-4204-a2e1-54a164a6908c)
 
 ### Key Market Segment 
 
