@@ -4,11 +4,12 @@
 
 # **Finalist** for the McGnnis Social Enterprise Venture Competition
 
-![1742419645477](https://github.com/user-attachments/assets/0c539379-2384-4e0d-91e0-7d6a75dab16a)
-
 We turned a first draft prototype from our Policy Innovation Lab course with Bloomberg Government as a client into a startup venture for the McGinnis competition, in which we placed as finalists. What started as a class project grew into something bigger. Read more about the original prototype below. Click [here](#my-heading) to jump to our competition pitch.
 
 # Eval-AI Model Check
+
+![Screenshot 2025-05-14 134153](https://github.com/user-attachments/assets/e01268de-fca2-4eab-8e27-21b023ddaaf4)
+
 **As Team Lead for the Eval-AI project**, I worked alongside four team members for **Bloomberg Government** in the Policy Innovation Lab course to apply design thinking principles to a business problem. We designed an open-source compliance evaluation framework for Generative AI models via an [online interface](https://www.figma.com/proto/RscbuGdIkKUeYIRttQDe3y/PIL-Prototype-Design-(FINAL)?node-id=19-2&node-type=canvas&t=v6Gvf3JQeqKgChfB-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A2) and GitHub benchmark models. The framework aims to mitigate risks like hallucinations and prompt misinterpretations in public interest AI applications by assessing AI systems against U.S. AI regulations and responsible AI principles.
 
 ### Check out the [online interface](https://www.figma.com/proto/RscbuGdIkKUeYIRttQDe3y/PIL-Prototype-Design-(FINAL)?node-id=19-2&node-type=canvas&t=v6Gvf3JQeqKgChfB-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A2)! 
@@ -53,13 +54,17 @@ Own the design of LLM/GenAI testing method. Identify potential weaknesses in AI 
 
 Focus on strategies to protect user data during testing and in production as well as identifying/preventing biases in AI outputs, particularly discriminatory or offensive responses. Identify privacy risks and help develop red teaming techniques to safeguard sensitive information. Ensure compliance with data privacy laws and guidelines in all test scenarios and provide input on data handling protocols.
 
+
+
 # McGnnis Social Enterprise Venture Competition Pitch <a id="my-heading"></a>
+
+![1742419645477](https://github.com/user-attachments/assets/0c539379-2384-4e0d-91e0-7d6a75dab16a)
 
 ## Market Opportunity & Problem Statement
 
-The LLM market is projected to grow from 1.5 million users in 2023 to 259 million by 2030, with 750 million applications expected to integrate LLMs by 2025. As AI adoption accelerates, organizations face increasing regulatory scrutiny due to risks such as hallucinations, bias, and compliance failures. Current compliance processes are fragmented, manual, and reactive, exposing companies to legal fines, reputational damage, and regulatory penalties—with non-compliance costs reaching up to $1 trillion annually.
+The LLM market is projected to grow from 1.5 million users in 2023 to 259 million by 2030, with 750 million applications expected to integrate LLMs by 2025. As AI adoption accelerates, organizations face increasing regulatory scrutiny due to risks such as hallucinations, bias, and compliance failures. **Current compliance processes are fragmented, manual, and reactive, exposing companies to legal fines, reputational damage, and regulatory penalties—with non-compliance costs reaching up to $1 trillion annually.**
 
-Enterprises in regulated industries such as finance, healthcare, legal, and insurance face the highest risk, with 50,000+ organizations struggling to align AI models with evolving regulations. AI developers, responsible for model integrity, lack standardized compliance frameworks. Meanwhile, government regulators need reliable assessment tools to enforce AI laws effectively. Despite these urgent needs, no comprehensive compliance testing solution exists today.
+Enterprises in regulated industries such as finance, healthcare, legal, and insurance face the highest risk, with 50,000+ organizations struggling to align AI models with evolving regulations. AI developers, responsible for model integrity, lack standardized compliance frameworks. Meanwhile, government regulators need reliable assessment tools to enforce AI laws effectively. Despite these urgent needs, **no comprehensive compliance testing solution exists today**.
 
 ### EVAL-AI: The Compliance Solution for AI Models
 
@@ -72,7 +77,7 @@ EVAL-AI ensures that AI applications meet legal, ethical, and operational compli
 We are the right team because we combine deep expertise in AI policy, regulatory compliance, and business strategy, ensuring a holistic approach to AI evaluation. Our interdisciplinary backgrounds allow us to create a product that is aligned with emerging global AI needs. We are passionate about responsible AI and committed to building a scalable solution that not only meets industry needs but also drives meaningful social impact.
 With the right investment and resources, we are confident in our ability to bring this vision to life.
 
-## Prdocut Maintenance
+## Product Maintenance
 
 The product is a sum of parts which are explained in detail below.
 
@@ -117,11 +122,11 @@ We have created a user interactions workflow that ensures Eval-AI remains a valu
 
 ## Problem Sizing
 
-Per Instance Sizing: Each GenAI compliance failure can cost $100,000 to $60 million, depending on severity. AI-generated misinformation incurs $100,000–$5 million in reputational and legal damages. Regulatory fines, such as those under the EU AI Act, can reach 6% of annual revenue (e.g., $60 million for OpenAI). AI-driven bias lawsuits have resulted in settlements of up to $50 million. (Sources: McKinsey AI Risk Report 2024, FTC AI Compliance Guidelines, U.S. DOJ AI Ethics Investigations)
+**Per Instance Sizing:** Each GenAI compliance failure can cost $100,000 to $60 million, depending on severity. AI-generated misinformation incurs $100,000–$5 million in reputational and legal damages. Regulatory fines, such as those under the EU AI Act, can reach 6% of annual revenue (e.g., $60 million for OpenAI). AI-driven bias lawsuits have resulted in settlements of up to $50 million. (Sources: McKinsey AI Risk Report 2024, FTC AI Compliance Guidelines, U.S. DOJ AI Ethics Investigations)
 
-Per Actor, Annually: Over 70% of large enterprises use GenAI, with financial, healthcare, and tech industries facing the highest compliance risks. AI governance costs average $3 million per company per year, with top AI firms facing 1–5 compliance lawsuits annually, costing $10–$50 million per case. (Sources: PwC AI Business Adoption Report 2024, Gartner AI Risk Report 2023)
+**Per Actor, Annually:** Over 70% of large enterprises use GenAI, with financial, healthcare, and tech industries facing the highest compliance risks. AI governance costs average $3 million per company per year, with top AI firms facing 1–5 compliance lawsuits annually, costing $10–$50 million per case. (Sources: PwC AI Business Adoption Report 2024, Gartner AI Risk Report 2023)
 
-Total Impact, Annually: More than 100,000 companies globally deploy GenAI in high-risk domains. AI non-compliance leads to $500B+ in misinformation and fraud losses, $10B+ in regulatory fines and legal fees, and $250B in compliance audits and model validation costs. (Sources: World Economic Forum AI Risk Report 2024, AI Ethics & Compliance Global Report 2023, IDC AI Industry Forecast 2024
+**Total Impact, Annually:** More than 100,000 companies globally deploy GenAI in high-risk domains. AI non-compliance leads to $500B+ in misinformation and fraud losses, $10B+ in regulatory fines and legal fees, and $250B in compliance audits and model validation costs. (Sources: World Economic Forum AI Risk Report 2024, AI Ethics & Compliance Global Report 2023, IDC AI Industry Forecast 2024
 
 ## Target Market Segments
 
@@ -137,13 +142,13 @@ Total Impact, Annually: More than 100,000 companies globally deploy GenAI in hig
 
 **AI/LLM Developers** (AI-native firms, startups, and research institutions)
 
-* Estimated Market Size: ~10,000 AI development and research institutions.
-* Why It Matters: These firms are responsible for ensuring model compliance before deployment, making AI governance solutions a critical investment.
+* **Estimated Market Size:** ~10,000 AI development and research institutions.
+* **Why It Matters:** These firms are responsible for ensuring model compliance before deployment, making AI governance solutions a critical investment.
 
 **Regulatory Institutions** (U.S. and international policymakers, agencies)
 
-* Estimated Market Size: ~1,000 agencies and institutions.
-* Why It Matters: Government entities can endorse, adopt, or mandate compliance testing frameworks, positioning EVAL-AI as a trusted regulatory partner.
+* **Estimated Market Size:** ~1,000 agencies and institutions.
+* **Why It Matters:** Government entities can endorse, adopt, or mandate compliance testing frameworks, positioning EVAL-AI as a trusted regulatory partner.
 
 ### Competitive Landscape
 
