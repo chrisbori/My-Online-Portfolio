@@ -1,4 +1,4 @@
-| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22 Data Story](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
 
 
 Welcome to my online portfolio! 
@@ -19,5 +19,5 @@ I'm a user-centric, digital transformation leader (and avid coffee-drinker) who 
 
 I bring **experience with enterprise-level product implementation and road mapping, change management, and project management coupled with rigorous academics in data analytics and modeling**. In any team I’m a part of, my goal is to understand what people need in order to create the safest space possible for everyone. I think this brings out the best quality outputs from me, and I believe it’s the same for those in my team. I could bring this work ethic and adaptability to your team and organization to drive desired results. I could **connect to empower**.
 
-| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Visualizing Debt](https://chrisbori.github.io/My-Online-Portfolio/visualizing-government-debt) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
+| [Home Page](https://chrisbori.github.io/My-Online-Portfolio/) | [Eval-AI Model Check](https://chrisbori.github.io/My-Online-Portfolio/eval-ai) | [Puerto Rico's Act 22 Data Story](https://chrisbori.github.io/My-Online-Portfolio/final-project-part-three) | [Everybody Poops](https://chrisbori.github.io/My-Online-Portfolio/critique-by-design) |
 
