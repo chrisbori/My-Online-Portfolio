@@ -8,7 +8,7 @@
 
 We turned a first draft prototype from our Policy Innovation Lab course with Bloomberg Government as a client into a startup venture for the McGinnis competition, in which we placed as finalists. What started as a class project grew into something bigger. Read more about the original prototype below. Click [here](#my-heading) to jump to our competition pitch.
 
-# Eval-AI Model Check
+# Eval-AI Model Check (Original Prototype)
 
 ![image](https://github.com/user-attachments/assets/7bcff22a-763f-48d7-bf7b-3803b7ec18f7)
 
